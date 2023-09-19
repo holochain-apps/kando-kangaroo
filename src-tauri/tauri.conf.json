@@ -39,7 +39,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "org.holochain.holochain-apps.kando",
+      "identifier": "org.holochain.holochain-apps.kando-0-1",
       "icon": [
         "icons/32x32.png",
         "icons/128x128.png",
